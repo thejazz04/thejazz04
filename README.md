@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 <div align="center">
-  <a href="INSERT LINKEDIN PROFILE HERE"
+  <a href="INSERT LINKEDIN PROFILE HERE">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="INSERT REDDIT PROFILE LINK HERE">
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/JavaScript-blue?logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML-orange?logo=html5" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3" alt="CSS"/>
-
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
@@ -49,7 +48,6 @@
   </a>
 </div>
 
-
 # 🔥 GitHub Streak:
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -57,20 +55,6 @@
   </a>
 </div>
 
-<!--
-# ⌨️ My Typing Speed:
-<div align="center">
-  <img src="Typing_Speed_Time.png" alt="Typing Speed Time" width="45%"/>
-  <img src="Typing_Speed_Words.png" alt="Typing Speed Words" width="45%"/>
-</div>
-
-### View my Profile here: 
-<div align="center">
-  <a href="https://monkeytype.com/profile/DeathGamer">
-    <img src="https://img.shields.io/badge/MonkeyType-FF9900?style=flat&logo=MonkeyType&logoColor=white" alt="MonkeyType Profile"/>
-  </a>
-</div>
--->
 ---
 
 <div align="center">
@@ -78,5 +62,4 @@
 </div>
 
 ---
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
