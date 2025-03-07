@@ -1,4 +1,4 @@
-[![MasterHead](Banner.jpg)](https://github.com/thejazz04)
+[![MasterHead](image_1.jpg)](https://github.com/thejazz04)
 
 # 💫 About Me:
 - 👀 I’m interested in learning new things  
