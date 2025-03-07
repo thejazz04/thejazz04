@@ -39,14 +39,15 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/thejazz04/github-readme-stats" style="display:inline-block;">
+<div align="center" style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <a href="https://github.com/thejazz04/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=thejazz04&theme=ambient_gradient&hide_border=true" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/thejazz04/convoychat" style="display:inline-block;">
+  <a href="https://github.com/thejazz04/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejazz04&layout=compact&theme=ambient_gradient&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
+
 
 
 # 🔥 GitHub Streak:
