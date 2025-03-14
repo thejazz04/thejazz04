@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **experienced developers and contributing to meaningful projects.**
 
-- 👨‍💻 All of my projects are available at [[My GitHub Repository (coming soon!)]]([My GitHub Repository (coming soon!)])
+- 👨‍💻 All of my projects are available at [[My GitHub Repository (coming soon!)]]
 
 - 💬 Ask me about **data structures, algorithms, and efficient problem-solving techniques.**
 
