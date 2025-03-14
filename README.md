@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **thejasbk001@gmail.com**
 
-- 📄 Know about my experiences [(Currently building my resume—stay tuned!)]((Currently building my resume—stay tuned!))
+- 📄 Know about my experiences [(Currently building my resume—stay tuned!)]
 
 - ⚡ Fun fact **Quiet until you get to know me, funny when you do. Gaming, coding, and getting things done—that’s my vibe.**
 
