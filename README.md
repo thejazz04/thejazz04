@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **data structures, algorithms, and efficient problem-solving techniques.**
 
-- 📫 How to reach me **thejasbk@001@gmail.com**
+- 📫 How to reach me **thejasbk001@gmail.com**
 
 - 📄 Know about my experiences [(Currently building my resume—stay tuned!)]((Currently building my resume—stay tuned!))
 
