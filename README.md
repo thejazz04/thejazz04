@@ -1,22 +1,22 @@
-# Hi, I'm Thejas 👋
+# Hi, I'm Thejas👋
 
 ### Computer Science Engineering Student | Software Developer
 
 I'm a **Computer Science Engineering student** at The National Institute of Engineering, Mysuru, interested in building software, learning new technologies, and solving problems through code.
 
-- 🎓 B.Tech CSE
-- 💻 Interested in Software Development, Backend Engineering & AI/ML
-- 🧠 Currently improving my DSA and Java skills
-- 🔧 Building with JavaScript, React, Node.js and databases
-- 🤖 Exploring AI/ML and LLM applications
-- 🐳 Learning Docker, CI/CD and cloud deployment
-- 📚 Always learning and experimenting
+- B.Tech CSE
+- Interested in Software Development, Backend Engineering & AI/ML
+- Currently improving my DSA and Java skills
+- Building with JavaScript, React, Node.js and databases
+- Exploring AI/ML and LLM applications
+- Learning Docker, CI/CD and cloud deployment
+- Always learning and experimenting
 
-## 🛠️ Technologies
+##  Technologies
 
 **Languages**
 
-Java • JavaScript • Python • C • SQL
+Java • JavaScript • Python • C/C++ • SQL
 
 **Development**
 
@@ -34,7 +34,7 @@ XGBoost • Machine Learning • LLMs • RAG
 
 Git • GitHub • Docker • Jenkins • Linux
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Data Structures & Algorithms
 - Java & OOP
@@ -45,15 +45,15 @@ Git • GitHub • Docker • Jenkins • Linux
 - AI/ML
 - Cloud & DevOps
 
-## 📊 GitHub
+## GitHub
 
 I use GitHub to document my learning, experiment with technologies, and build projects while improving my software engineering skills.
 
-## 🤝 Connect
+##  Connect
 
-📧 **Email:** [thejasbk4@gmail.com](mailto:thejasbk4@gmail.com)
+ **Email:** [thejasbk4@gmail.com](mailto:thejasbk4@gmail.com)
 
-💼 **LinkedIn:** Add your LinkedIn
+ **LinkedIn:** http://www.linkedin.com/in/thejasbk4
 
 ---
 
